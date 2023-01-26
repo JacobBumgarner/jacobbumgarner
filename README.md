@@ -6,7 +6,7 @@ Currently exploring future career paths.
 
 ## Media and Writing
     
-[![](https://img.shields.io/twitter/follow/bumgarner_jr?label=bumgarner_JR%20%20&style=social)](https://twitter.com/Bumgarner_JR)
+[![](https://img.shields.io/badge/follow-%40bumgarner_jr-1DA1F2?logo=twitter&style=social)](https://twitter.com/Bumgarner_JR)
 [![](https://img.shields.io/badge/LinkedIn-4285F4?style=flat&logo=linkedin)](https://www.linkedin.com/in/jacob-bumgarner/)
     
 [![](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@jacobbumgarner)
