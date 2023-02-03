@@ -22,5 +22,4 @@ On GitLab from: 11/21/2022 -> 05/21/2023
 ---
     
 ![](https://img.shields.io/github/stars/jacobbumgarner?label=Total%20Stars&style=social)
-![](https://wakatime.com/badge/user/051b6b25-f60c-405f-9d7a-cbda0e8bae8b.svg)
 ![](https://komarev.com/ghpvc/?username=jacobbumgarner&color=orange&label=Profile+visits)
