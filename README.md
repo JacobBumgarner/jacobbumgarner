@@ -1,4 +1,4 @@
-Hello 🤖 My name is Jacob! I'm a neuroscience PhD candidate studying at West Virginia University. 
+Hello 🤖 My name is Jacob! I'm a neuroscience PhD candidate studying at West Virginia University. I'm also currently working as a bioinformaticist co-op at EMD Serono of Merck KGaA. 
 
 I'm passionate about bioinformatics, open-source software development, digital image processing, and ML/DL. 
 
