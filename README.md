@@ -4,7 +4,7 @@ I'm passionate about bioinformatics, open-source software development, digital i
 
 Preparing to pursue a career that integrates bioinformatics, research software engineering, ML/DL, & data analytics.
 
-On GitLab from: 11/21/2022 -> 05/21/2023
+Currently coding on GitLab.
 
 ## Media and Writing
     
