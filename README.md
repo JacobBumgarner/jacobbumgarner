@@ -2,8 +2,6 @@ Hello 🤖 My name is Jacob! I'm a neuroscience PhD candidate studying at West V
 
 I'm passionate about bioinformatics, open-source software development, digital image processing, and ML/DL. 
 
-Preparing to pursue a career that integrates bioinformatics, research software engineering, ML/DL, & data analytics.
-
 Currently coding on GitLab.
 
 ## Media and Writing
