@@ -2,7 +2,7 @@ Hello 🤖 My name is Jacob! I'm a bioinformatics scientist working in drug disc
 
 I'm passionate about bioinformatics, open-source software development, digital image processing, and ML/DL. 
 
-Currently coding on GitLab.
+Working on translational bioinformatics at BMS.
 
 ## Media and Writing
     
