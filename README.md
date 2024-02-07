@@ -20,4 +20,4 @@ Working on translational bioinformatics at BMS.
 ---
     
 ![](https://img.shields.io/github/stars/jacobbumgarner?label=Total%20Stars&style=social)
-![](https://komarev.com/ghpvc/?username=jacobbumgarner&color=orange&label=Profile+visits)
+<!-- ![](https://komarev.com/ghpvc/?username=jacobbumgarner&color=orange&label=Profile+visits) -->
