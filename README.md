@@ -1,8 +1,6 @@
-Hello 🤖 My name is Jacob! I'm a bioinformatics scientist working in drug discovery.
+Hello 🤖 My name is Jacob! I'm a bioinformatics scientist working in drug discovery at BMS.
 
 I'm passionate about bioinformatics, open-source software development, digital image processing, and ML/DL. 
-
-Working on translational bioinformatics at BMS.
 
 ## Media and Writing
     
