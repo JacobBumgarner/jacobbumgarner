@@ -11,9 +11,9 @@ I'm passionate about bioinformatics, open-source software development, digital i
 [![](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=n4RucXIAAAAJ&hl=en) 
 
 ## Projects
-- [@VesselVio](https://github.com/JacobBumgarner/VesselVio), an open-source application for vasculature dataset analysis and visualization
 - Creating ML/DL/stats educational content [@learning-repo](https://github.com/JacobBumgarner/learning-repo) and publishing on my personal site [link](jacobbumgarner.github.io).
-   
+- [@VesselVio](https://github.com/JacobBumgarner/VesselVio), an open-source application for vasculature dataset analysis and visualization
+
 ---
     
 ![](https://img.shields.io/github/stars/jacobbumgarner?label=Total%20Stars&style=social)
