@@ -2,6 +2,10 @@ Hello 🤖 My name is Jacob! I'm a bioinformatics scientist working in drug disc
 
 I'm passionate about bioinformatics, open-source software development, digital image processing, and ML/DL. 
 
+## Projects
+- Creating ML/DL/stats educational content [@learning-repo](https://github.com/JacobBumgarner/learning-repo) and publishing on my personal site [link](jacobbumgarner.github.io).
+- [@VesselVio](https://github.com/JacobBumgarner/VesselVio), an open-source application for vasculature dataset analysis and visualization
+
 ## Media and Writing
     
 [![](https://img.shields.io/badge/follow-%40bumgarner_jr-1DA1F2?logo=twitter&style=social)](https://twitter.com/Bumgarner_JR)
@@ -9,10 +13,6 @@ I'm passionate about bioinformatics, open-source software development, digital i
     
 [![](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@jacobbumgarner)
 [![](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=n4RucXIAAAAJ&hl=en) 
-
-## Projects
-- Creating ML/DL/stats educational content [@learning-repo](https://github.com/JacobBumgarner/learning-repo) and publishing on my personal site [link](jacobbumgarner.github.io).
-- [@VesselVio](https://github.com/JacobBumgarner/VesselVio), an open-source application for vasculature dataset analysis and visualization
 
 ---
     
