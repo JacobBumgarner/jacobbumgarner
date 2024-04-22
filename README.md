@@ -12,8 +12,7 @@ I'm passionate about bioinformatics, open-source software development, digital i
 
 ## Projects
 - [@VesselVio](https://github.com/JacobBumgarner/VesselVio), an open-source application for vasculature dataset analysis and visualization
-- Creating ML/DL/stats educational content [@learning-repo](https://github.com/JacobBumgarner/learning-repo). 
-    - This repo hosts all of the manim and Python code I use to create materials for my ***Breaking it Down*** articles.
+- Creating ML/DL/stats educational content [@learning-repo](https://github.com/JacobBumgarner/learning-repo) and publishing on my personal site [link](jacobbumgarner.github.io).
    
 ---
     
