@@ -12,7 +12,7 @@ I'm passionate about bioinformatics, open-source software development, digital i
 [![](https://img.shields.io/badge/LinkedIn-4285F4?style=flat&logo=linkedin)](https://www.linkedin.com/in/jacob-bumgarner/)
     
 [![](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@jacobbumgarner)
-[![](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=n4RucXIAAAAJ&hl=en) 
+[![](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7OYh18AAAAAJ&hl=en) 
 
 ---
     
