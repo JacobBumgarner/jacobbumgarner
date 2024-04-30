@@ -3,7 +3,7 @@ Hello 🤖 My name is Jacob! I'm a bioinformatics scientist working in drug disc
 I'm passionate about bioinformatics, open-source software development, digital image processing, and ML/DL. 
 
 ## Projects
-- Creating ML/DL/stats educational content [@learning-repo](https://github.com/JacobBumgarner/learning-repo) and publishing on my personal site ([link](https://jacobbumgarner.github.io/)).
+- Creating ML/DL/stats educational content [@learning-repo](https://github.com/JacobBumgarner/learning-repo) and publishing on my website ([jacobbumgarner.com](https://jacobbumgarner.com/)).
 - [@VesselVio](https://github.com/JacobBumgarner/VesselVio), an open-source application for vasculature dataset analysis and visualization
 
 ## Media and Writing
