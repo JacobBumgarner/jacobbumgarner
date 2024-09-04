@@ -1,4 +1,4 @@
-I'm a computational biologist working in drug development at BMS.
+I'm a computational biologist at BMS.
 
 I'm passionate about bioinformatics, open-source software development, digital image processing, and ML/DL. 
 
