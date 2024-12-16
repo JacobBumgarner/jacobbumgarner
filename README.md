@@ -1,4 +1,4 @@
-I'm a computational biologist at BMS.
+Hello, I'm Jacob. I'm a computational biologist at BMS.
 
 I'm passionate about bioinformatics, open-source software development, digital image processing, and ML/DL. 
 
