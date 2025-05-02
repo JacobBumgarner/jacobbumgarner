@@ -2,6 +2,8 @@ Hello, I'm Jacob. I'm a computational biologist at BMS.
 
 I'm passionate about bioinformatics, open-source software development, digital image processing, and ML/DL 🤖 
 
+Currently building a plotting package in stealth mode 👨‍💻
+
 ## Links
 
 [![](https://img.shields.io/badge/LinkedIn-4285F4?style=flat&logo=linkedin)](https://www.linkedin.com/in/jacob-bumgarner/) [![](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7OYh18AAAAAJ&hl=en) 
