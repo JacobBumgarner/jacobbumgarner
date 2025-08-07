@@ -1,6 +1,6 @@
 Hello, I'm Jacob. I'm a computational biologist at BMS.
 
-I'm passionate about bioinformatics, open-source software development, digital image processing, and ML/DL 🤖 
+I'm passionate about computational biology, ML/DL, and open source engineering 🤖 
 
 Currently building a plotting package in stealth mode 👨‍💻
 
