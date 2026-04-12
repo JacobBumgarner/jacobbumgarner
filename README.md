@@ -12,7 +12,7 @@ Currently building a plotting package in stealth mode 👨‍💻
 
 <!-- [![](https://img.shields.io/twitter/follow/bumgarner_jr)](https://twitter.com/Bumgarner_JR) -->
     
-![](https://img.shields.io/github/stars/jacobbumgarner?label=Total%20Stars&style=social)
+![](https://img.shields.io/github/stars/jacobbumgarner)
 
 
 ## Projects
