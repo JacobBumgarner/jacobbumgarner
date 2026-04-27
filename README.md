@@ -1,4 +1,4 @@
-Hello, I'm Jacob. I'm a computational biologist at BMS.
+Hello, I'm Jacob. I'm engineering AI and LLM solutions at Eli Lilly.
 
 I'm passionate about computational biology, ML/DL, and open source engineering 🤖 
 
