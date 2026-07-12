@@ -1,4 +1,4 @@
-Hello, I'm Jacob. I'm engineering AI and LLM solutions at Eli Lilly.
+Hello, I'm Jacob. I'm developing AI and LLM solutions for drug discovery at Eli Lilly.
 
 I'm passionate about computational biology, ML/DL, and open source engineering 🤖 
 
