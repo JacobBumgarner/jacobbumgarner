@@ -1,8 +1,6 @@
-Hello, I'm Jacob. I'm developing AI and LLM solutions for drug discovery at Eli Lilly.
+Hello, I'm Jacob. I'm developing AI research software solutions for drug discovery at Eli Lilly.
 
-I'm passionate about computational biology, ML/DL, and open source engineering 🤖 
-
-Currently building a plotting package in stealth mode 👨‍💻
+I'm passionate about computational biology, language models, ML/DL, and open source engineering 🤖 
 
 ## Links
 
