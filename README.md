@@ -1,4 +1,4 @@
-Hello, I'm Jacob. I'm developing AI research software solutions for drug discovery at Eli Lilly.
+Hello, I'm Jacob. I'm building agent research infrastructure and analysis pipelines for drug discovery at Eli Lilly.
 
 I'm passionate about computational biology, language models, ML/DL, and open source engineering 🤖 
 
